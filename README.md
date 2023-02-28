@@ -1,8 +1,8 @@
 # AirBnb-Booking-Analysis
 
-The Project is prepared ans successfully by using google colab platform.
+The Project is prepared and successfully executed by using google colab platform.
 
-All the problem areas,solutions , visual represtation depicted here are implemented using python programming language and its various modules.
+All the problem areas,solutions , visual represtation depicted here are implemented using python programming language and its various modules like numpy, pandas, datetime, matplotlib etc.
 
 You can access the sheet and load data set (https://drive.google.com/file/d/1ioU5r9KEYSfwgfUi22SclVkx4l1a_8ou/view?usp=sharing) into your drive and either mount your drive with google colab or upload the file directly into google colab for accessing all the analysis made properly.
 
