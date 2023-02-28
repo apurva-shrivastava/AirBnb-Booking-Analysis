@@ -1,6 +1,6 @@
 # AirBnb-Booking-Analysis
 
-The Project is prepared and successfully executed by using google colab platform.
+This exploratory data analysis Project is prepared and successfully executed by using google colab platform.
 
 All the problem areas,solutions , visual represtation depicted here are implemented using python programming language and its various modules like numpy, pandas, datetime, matplotlib etc.
 
