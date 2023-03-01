@@ -6,6 +6,14 @@ All the problem areas,solutions , visual represtation depicted here are implemen
 
 You can access the sheet and load data set (https://drive.google.com/file/d/1ioU5r9KEYSfwgfUi22SclVkx4l1a_8ou/view?usp=sharing) into your drive and either mount your drive with google colab or upload the file directly into google colab for accessing all the analysis made properly.
 
+EDA is divided into following 3 analysis:
+
+Univariate analysis: Univariate analysis is the simplest of the three analyses where the data, you are analyzing is only one variable.
+
+Bivariate analysis: Bivariate analysis is where you are comparing two variables to study their relationships.
+
+Multivariate analysis: Multivariate analysis is similar to Bivariate analysis but you are comparing more than two variables.
+
 
 This project majorly deals with Airbnb platform which connects people who want to rent out their homes or spare/extra room or space with people who are looking for accommodations in different locations.
 
